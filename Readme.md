@@ -141,4 +141,6 @@ echo "GATEWAY=192.168.0.1" >> /etc/sysconfig/network-scripts/ifcfg-eth1
 ![image](https://raw.githubusercontent.com/staybox/otus_dz17/master/screenshots/filtration.png)
 
 Запуск
+```
 git clone git@github.com:marozov/iptables.git && cd iptables && vagrant up
+```
